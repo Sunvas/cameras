@@ -1,8 +1,12 @@
 ## Cameras &mdash; *a simple video surveillance single-page application for reading webrtc streams from mediamtx*
 
-#### It is implied that:
-1. You have properly functioning hosting with reachable domain `https://example.com` .
-2. You have already configured [mediamtx](https://github.com/bluenviron/mediamtx) and it is possible to read streams by visiting `https://www.example.com:8889/stream` .
+|<img src="screenshots/sign-in.jpg" alt="Sign in" title="Sign in">|<img src="screenshots/vertical.jpg" alt="Vertical orientation" alt="Vertical orientation">|<img src="screenshots/horizontal.jpg" alt="Horizontal orientation">|
+|-|-|-|
+
+> [!IMPORTANT]
+> #### It is implied that:
+> 1. You have properly functioning hosting with reachable domain `https://example.com` .
+> 2. You have already configured [mediamtx](https://github.com/bluenviron/mediamtx) and it is possible to read streams by visiting `https://www.example.com:8889/stream` .
 
 
 #### Deployment:
