@@ -1,0 +1,43 @@
+{
+  "name": "Cameras",
+  "short_name": "Cameras",
+  "description": "Cameras",
+  "author": "Alexnader Sunvas",
+  "lang": "en-US",
+  "start_url": "/cameras/",
+  "display": "standalone",
+  "background_color": "#033b00",
+  "theme_color": "#033b00",
+  "icons": [
+    {
+      "src": "/cameras/icons/128x128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/cameras/icons/144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "/cameras/icons/152x152.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "/cameras/icons/192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/cameras/icons/256x256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "/cameras/icons/512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

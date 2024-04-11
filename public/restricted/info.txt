@@ -1,0 +1,1 @@
+Access to this folder should be restricted via http authentication.

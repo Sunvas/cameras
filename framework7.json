@@ -1,0 +1,17 @@
+{
+  "type": [
+    "pwa"
+  ],
+  "name": "Cameras",
+  "framework": "vue",
+  "template": "tabs",
+  "bundler": "vite",
+  "cssPreProcessor": false,
+  "theming": {
+    "customColor": true,
+    "color": "#033b00",
+    "darkMode": true,
+    "iconFonts": true
+  },
+  "customBuild": false
+}

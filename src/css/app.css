@@ -1,0 +1,11 @@
+/* Your app custom styles here */
+iframe.rotate-90 {
+	rotate:-90deg;
+}
+iframe.rotate90 {
+	rotate:90deg;
+}
+
+iframe.rotate-90, iframe.rotate90 {
+	width: calc(100vh - var(--f7-tabbar-icons-height,0px) - var(--f7-toolbar-height,0px));
+}
