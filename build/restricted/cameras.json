@@ -5,6 +5,6 @@
 		["caption", "stream-name", "material-icon"],
 
 		["East example", "east", "east", {"rotate":90}],
-		["West exmample", "west", "west", {"rotate":-90}]
+		["West example", "west", "west", {"rotate":-90}]
 	]
 }
